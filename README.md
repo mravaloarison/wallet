@@ -16,49 +16,49 @@ This is a simple `.NET MAUI` application that checks if a credit card number is 
 <table>
     <tr>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/desktop.png">
                 <img src="screenshots/desktop.png" alt="Screenshot Home desktop" width="300px" />
             </a>
         </td>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/Ipad.png">
                 <img src="screenshots/Ipad.png" alt="Screenshot home IOS" width="300px" />
             </a>
         </td>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/Iphone.png">
                 <img src="screenshots/Iphone.png" alt="Screenshot home Iphone" width="300px" />
             </a>
         </td>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/Android.png">
                 <img src="screenshots/Android.png" alt="Screenshot home Android" width="300px" />
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/empty_input.png">
                 <img src="screenshots/empty_input.png" alt="Screenshot Empty input" width="300px" />
             </a>
         </td>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/invalid_card.png">
                 <img src="screenshots/invalid_card.png" alt="Screenshot Invalid Card" width="300px" />
             </a>
         </td>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/insert_data.png">
                 <img src="screenshots/insert_data.png" alt="Screenshot inserting card" width="300px" />
             </a>
         </td>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/success_input.png">
                 <img src="screenshots/success_input.png" alt="Screenshot successful card" width="300px" />
             </a>
         </td>
         <td>
-            <a href="">
+            <a href="https://github.com/mravaloarison/wallet/blob/main/screenshots/success.png">
                 <img src="screenshots/success.png" alt="Screenshot all type of card" width="300px" />
             </a>
         </td>
