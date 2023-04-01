@@ -70,3 +70,6 @@ To use this application, simply run it on your local machine or emulator, and in
 
 ## How it works
 This application checks if the entered credit card number is valid using the Luhn algorithm. It then identifies the type of the credit card based on the first few digits of the card number. If the card number is valid, a new label is created with the card number and its type, and added to the stack layout.
+
+## Issues encountered
+As I was working on a macOS desktop, there was compatibility issues with the macOS version, Xcode and .NET MAUI installation errors, there was also few issues related to dependencies or libraries used. They were mostly resolved by updating the software, reinstalling or repairing the installation, also troubleshooting dependencies and libraries.
