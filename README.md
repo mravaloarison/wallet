@@ -6,9 +6,9 @@ This is a simple `.NET MAUI` application that checks if a credit card number is 
 
 ## Requirements
 * `XCODE`
-* Visual Studio 
+* `Visual Studio `
 * `.NET MAUI`
-* Microsoft.Maui.Controls
+* `Microsoft.Maui.Controls`
 
 ## Usage
 To use this application, simply run it on your local machine or emulator, and input a credit card number into the text box provided. If the card number is valid, the application will add a label showing the card number and its type (Visa, MasterCard, Amex or Unknown) to the stack layout. If the card number is invalid, the application will display an error message.
