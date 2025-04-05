@@ -1,4 +1,7 @@
 # Card Validator
+
+🔗 [Gihub link](https://github.com/mravaloarison/wallet)
+
 This is a simple `.NET MAUI` application that checks if a credit card number is valid and identifies its type (Visa, MasterCard, Amex or Unknown), based on a project from [Harvard CS50x](https://cs50.harvard.edu/x/2023/psets/1/credit/).
 
 ## Requirements
